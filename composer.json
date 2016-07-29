@@ -1,5 +1,5 @@
 {
-    "name": "yokesharun/PingOnTerminal",
+    "name": "yokesharun/ping-on-terminal",
     "description": "Run all terminal commands using this package",
     "keywords": ["laravel", "terminal", "command", "run", "artisan"],
     "authors": [
