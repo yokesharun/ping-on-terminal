@@ -1,0 +1,13 @@
+{
+    "name": "yokesharun/PingOnTerminal",
+    "description": "Run all terminal commands using this package",
+    "keywords": ["laravel", "terminal", "command", "run", "artisan"],
+    "authors": [
+        {
+            "name": "yokesharun",
+            "email": "ayokesh.cse@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
