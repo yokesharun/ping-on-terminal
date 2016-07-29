@@ -1,11 +1,12 @@
 # PingOnTerminal For laravel 5.*
 Run all terminal commands using this package
 
-> Installation
+Installation
+============================
 
 Add `yokesharun/ping-on-terminal` as a requirement to `composer.json`:
 
-Or
+> Or
 
 ```
 composer require yokesharun/ping-on-terminal
