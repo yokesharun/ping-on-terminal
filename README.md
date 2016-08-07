@@ -39,11 +39,12 @@ $ob->use_default('composer dump-autoload');
 to run all terminal commands use use_default function
 
 ```
-    $ob->use_default('composer dump-autoload');
+$ob->use_default('composer dump-autoload');
 ```
 
 to run artisan only commands use use_artisan function
 
 ```
-$ob->use_artisan('composer dump-autoload');
+$ob->use_artisan('serve');
+$ob->use_artisan('migrate');
 ```
