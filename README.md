@@ -1,5 +1,5 @@
 # PingOnTerminal For laravel 5.*
-Run all terminal commands using this package
+Run all terminal commands from your controller using this package
 
 Installation
 ============================
