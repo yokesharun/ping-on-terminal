@@ -9,7 +9,7 @@ Add `yokesharun/ping-on-terminal` as a requirement to `composer.json`:
 > Or
 
 ```
-composer require yokesharun/ping-on-terminal
+composer require "yokesharun/ping-on-terminal":"dev-master"
 ```
  Add the following to the `providers` in `app/config/app.php`: 
 
