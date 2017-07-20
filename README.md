@@ -2,9 +2,9 @@
 Run all terminal commands from your controller using this package
 
 <p align="left">
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/yokesharun/ping-on-terminal/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/yokesharun/ping-on-terminal/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/yokesharun/ping-on-terminal/license.svg" alt="License"></a>
+<a href="https://packagist.org/packages/yokesharun/ping-on-terminal"><img src="https://poser.pugx.org/yokesharun/ping-on-terminal/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/yokesharun/ping-on-terminal"><img src="https://poser.pugx.org/yokesharun/ping-on-terminal/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/yokesharun/ping-on-terminal"><img src="https://poser.pugx.org/yokesharun/ping-on-terminal/license.svg" alt="License"></a>
 </p>
 
 Installation
